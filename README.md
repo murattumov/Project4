@@ -97,7 +97,6 @@
 
 ### **Краткая информация**
 
-[Ссылка на Kaggle](https://www.kaggle.com/code/murattiroshevtumov/project3-hotels)
 ****
 
 
